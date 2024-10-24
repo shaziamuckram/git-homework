@@ -9,6 +9,7 @@ Welcome to our git-homework repository. We are excited that you are interested i
  1. Make sure to follow Python style guide and pytest for testing purposes 
  2. Code style should meet the static analysis tool expectations
  3. Be descriptive in your commits and pull request descriptions.
+ 4. Make sure to write well commented code!
 
 # Code of Conduct 
  1. Make sure to use proper language in commit messages and code comments 
